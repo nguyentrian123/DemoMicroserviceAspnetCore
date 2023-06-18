@@ -1,0 +1,24 @@
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.deps.json
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.AssemblyReference.cache
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfoInputs.cache
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfo.cs
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.CoreCompileInputs.cache
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.dll
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\refint\ECommerceDataModel.dll
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.pdb
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ref\ECommerceDataModel.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.deps.json
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.AssemblyReference.cache
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfoInputs.cache
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfo.cs
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.CoreCompileInputs.cache
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\refint\ECommerceDataModel.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.pdb
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ref\ECommerceDataModel.dll

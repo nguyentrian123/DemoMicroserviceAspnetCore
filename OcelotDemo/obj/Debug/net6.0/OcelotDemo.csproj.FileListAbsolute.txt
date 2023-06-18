@@ -1,0 +1,69 @@
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\appsettings.Development.json
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\appsettings.json
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\OcelotDemo.exe
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\OcelotDemo.deps.json
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\OcelotDemo.runtimeconfig.json
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\OcelotDemo.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\OcelotDemo.pdb
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\FluentValidation.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Ocelot.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.csproj.AssemblyReference.cache
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.AssemblyInfoInputs.cache
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.AssemblyInfo.cs
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.csproj.CoreCompileInputs.cache
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\scopedcss\bundle\OcelotDemo.styles.css
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.csproj.CopyComplete
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\refint\OcelotDemo.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.pdb
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.genruntimeconfig.cache
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\obj\Debug\net6.0\ref\OcelotDemo.dll
+D:\My Desk\Practice\ECommerceApp\OcelotDemo\bin\Debug\net6.0\ocelot.json
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.pdb
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\appsettings.Development.json
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\appsettings.json
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\ocelot.json
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\OcelotDemo.exe
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\OcelotDemo.deps.json
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\OcelotDemo.runtimeconfig.json
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\OcelotDemo.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\OcelotDemo.pdb
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\FluentValidation.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\bin\Debug\net6.0\Ocelot.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.csproj.AssemblyReference.cache
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.AssemblyInfoInputs.cache
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.AssemblyInfo.cs
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.csproj.CoreCompileInputs.cache
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\staticwebassets\msbuild.OcelotDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.OcelotDemo.props
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OcelotDemo.props
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OcelotDemo.props
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\scopedcss\bundle\OcelotDemo.styles.css
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.csproj.CopyComplete
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\refint\OcelotDemo.dll
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\OcelotDemo.genruntimeconfig.cache
+D:\Nguyễn Trí An\TRAIN DC8\ECommerceApp\OcelotDemo\obj\Debug\net6.0\ref\OcelotDemo.dll
